@@ -7,3 +7,8 @@ x = {
 y = [125, 669, 35, 337, 108, 834]
 
 z = "variation for experience"
+def calc():
+    a = 54
+    b = 42
+    return a+b
+
